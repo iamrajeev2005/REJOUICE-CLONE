@@ -13,11 +13,9 @@ Interactive magic with SwiperJS, adding a delightful carousel twist.
 💻 Tech Alchemy:
 The foundation of this digital wonderland? The classic trio—HTML, CSS, and JavaScript—woven together to create an immersive and engaging online experience.
 
-🔗 Explore the Interactive Oasis:
-[Insert Demo Link]
+🔗 Explore the Interactive Oasis:[https://iamrajeev2005.github.io/REJOUICE-CLONE/]
 
-📁 Unveiling the Code:
-[Insert GitHub Link]
+📁 Unveiling the Code: [https://github.com/iamrajeev2005/REJOUICE-CLONE]
 
 🚀 Ready to Step into the Future of Web Design? Join the Journey! 💫👨‍💻
 
